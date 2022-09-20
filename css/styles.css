@@ -1,0 +1,47 @@
+body {
+  font-size: large;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Media Queries
+  For Mobile devices: 320px-480px
+  For Tablets or iPad: 480px - 768px
+  For Laptop or small-size screen: 768px -1024px
+  For Desktop or large-size screen: 1024px -1200px
+  For Extra-large size device: 1200px and more
+*/
+
+/* Mobile or Tablet or iPad*/
+@media only screen and (min-width: 320px) and (max-width: 768px) {
+  img[src$=".svg"] {
+    width: 30%;
+    height: 30%;
+  }
+}
+
+/* Laptop or Small screen size */
+@media only screen and (min-width: 768px) and (max-width: 991.98px) {
+  img[src$=".svg"] {
+    width: 25%;
+    height: 25%;
+  }
+}
+
+/* Desktop or Large screen size */
+@media only screen and (min-width: 991.98px) and (max-width: 1200px) {
+  img[src$=".svg"] {
+    width: 20%;
+    height: 20%;
+  }
+}
+
+/* Extra Large screen size */
+@media only screen and (min-width: 1200px) {
+  img[src$=".svg"] {
+    width: 15%;
+    height: 15%;
+  }
+}
