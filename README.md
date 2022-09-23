@@ -1,5 +1,5 @@
 # Table of Contents
-- [Color Pallates](#color-pallates)
+- [Color Palettes](#color-Palettes)
 - [Fonts](#fonts)
 - [Icons](#icons)
 - [Illustrations](#illustrations)
@@ -7,7 +7,7 @@
 - [Youtube Channels](#youtube-channels)
 <hr />
 
-# Color Pallates
+# Color Palettes
 - [0 to 255 : Most useful color picker](https://0to255.com/)
 - [Adobe Color Wheel - A color palette generator](https://color.adobe.com/create/color-wheel)
 - [Brand Palettes : Logo color codes & palettes](https://brandpalettes.com/)
@@ -20,7 +20,7 @@
 - [Colors UI](https://colorsui.com/)
 - [Coolors : The super fast color palettes generator!](https://coolors.co/)
 - [Eggradients : Gradient background colors](https://www.eggradients.com/)
-- [Flat UI Colors : 280 handpicked color pallates](https://flatuicolors.com/)
+- [Flat UI Colors : 280 handpicked color Palettes](https://flatuicolors.com/)
 - [Gradient Hunt : Beautiful color gradients](https://gradienthunt.com/)
 - [Gradient.io](https://gradienta.io/)
 - [Gradientos : Hand-picked CSS gradients on UI elements](https://www.gradientos.app/)
