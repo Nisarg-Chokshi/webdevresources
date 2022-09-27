@@ -7,4 +7,4 @@
 - Bookmark this page to get the latest updates
 
 [GitHub](https://github.com/Nisarg-Chokshi/webdevresources)
-[Getting Started](#table-of-contents)
+[Getting Started](#welcome)
