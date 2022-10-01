@@ -12,6 +12,10 @@ a {
   text-decoration-color: #4EB982;
 }
 
+.homePage__anchor {
+  color: #34495e !important;
+}
+
 /* Media Queries
   For Mobile devices: 320px-480px
   For Tablets or iPad: 480px - 768px
