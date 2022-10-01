@@ -6,6 +6,16 @@ a {
   text-decoration: none;
 }
 
+.homePage__heading {
+  color: #34495e !important;
+  text-decoration: underline;
+  text-decoration-color: #4EB982;
+}
+
+.homePage__anchor {
+  color: #34495e !important;
+}
+
 /* Media Queries
   For Mobile devices: 320px-480px
   For Tablets or iPad: 480px - 768px
