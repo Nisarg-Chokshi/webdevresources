@@ -7,6 +7,10 @@
 
   - [Languages](languages.md "Programming Resources")
 
+- Tools
+
+  - [Chrome Extensions](chromeExtensions.md "Chrome Extensions")
+
 - YouTube
 
   - [Channels & Playlists](youtubeResources.md "YouTube Channels & Playlists")
