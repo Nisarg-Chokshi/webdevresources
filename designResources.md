@@ -57,6 +57,7 @@
 - [Animockup : Create product teasers with animated mockups](https://animockup.com/)
 - [Clean Mockups : Create stunning mockups that make your design standout](https://cleanmock.com/)
 - [Device Frames : 3D device mockup generator](https://deviceframes.com)
+- [DeviceShots : Free device mockup design generator](https://deviceshots.com/)
 - [Dimmy club : Device mockup generator for your screenshots](https://dimmy.club/)
 - [Mockup phone : Free & simple screenshots device mockups generator](https://mockuphone.com/)
 - [MockupBro : Create awesome mockups without any graphic software](https://mockupbro.com/)
