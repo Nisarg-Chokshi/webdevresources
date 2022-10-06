@@ -36,6 +36,7 @@
 - [Artify : The perfect solution for your design needs](https://www.artify.co/vector-illustrations)
 - [Blush : Illustrations for everyone](https://blush.design/)
 - [DrawKit : Beautiful vector illustrations](https://drawkit.com/)
+- [Favicon Generator](https://favicon.io/)
 - [Freepik : Illustrations vectors & illustrations for free](https://www.freepik.com/vectors/illustrations)
 - [Get Avataars : Avataaars generator](https://getavataaars.com/)
 - [GlazeStock : Free illustrations, for everything](https://www.glazestock.com/)
