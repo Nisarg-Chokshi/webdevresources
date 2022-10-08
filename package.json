@@ -3,12 +3,6 @@
   "version": "1.0.0",
   "description": "Web Development Resources",
   "main": "index.html",
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Nisarg-Chokshi/webdevresources.git"

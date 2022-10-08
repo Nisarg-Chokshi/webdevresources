@@ -9,7 +9,7 @@
 
 - Tools
 
-  - [Chrome Extensions](chromeExtensions.md "Chrome Extensions")
+  - [Extensions](extensions.md "Extensions")
 
 - YouTube
 
