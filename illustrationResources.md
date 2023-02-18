@@ -29,6 +29,8 @@
 - [SVGPorn : SVG logos for developers, designers, bloggers, geeks & more.](https://svgporn.com/)
 - [Simple Icons : Free SVG icons for popular brands](https://simpleicons.org/)
 - [Tabler Icons : 1400+ Open source free SVG icons](https://tablericons.com/)
+- [Icon Duck](https://iconduck.com/)
+- [SVGs App](https://svgps.app/store/)
 
 
 ## Illustrations

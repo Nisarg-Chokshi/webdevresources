@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Web Development Resources",
   "main": "index.html",
+  "scripts": {
+    "dev": "docsify serve"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Nisarg-Chokshi/webdevresources.git"
@@ -12,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Nisarg-Chokshi/webdevresources/issues"
   },
-  "homepage": "https://github.com/Nisarg-Chokshi/webdevresources#readme"
+  "homepage": "https://github.com/Nisarg-Chokshi/webdevresources#readme",
+  "dependencies": {
+    "docsify": "^4.11.4"
+  }
 }
