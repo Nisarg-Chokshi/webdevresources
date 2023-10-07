@@ -20,4 +20,4 @@
 
 
 
-Stay tuned ! More resources will be added :soon:
+Stay tuned. More resources will be added soon !

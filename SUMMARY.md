@@ -12,3 +12,9 @@
 * [Icons & Illustrations](design-resources/icons-and-illustrations/README.md)
   * [Icons](design-resources/icons-and-illustrations/icons.md)
   * [Illustrations](design-resources/icons-and-illustrations/illustrations.md)
+
+## 🧰 Tools
+
+* [Extensions](tools/extensions/README.md)
+  * [Chrome Extensions](tools/extensions/chrome-extensions.md)
+  * [VSCode Extensions](tools/extensions/vscode-extensions.md)
