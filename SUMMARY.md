@@ -18,3 +18,5 @@
 * [Extensions](tools/extensions/README.md)
   * [Chrome Extensions](tools/extensions/chrome-extensions.md)
   * [VSCode Extensions](tools/extensions/vscode-extensions.md)
+* [Job Opportunities](tools/job-opportunities/README.md)
+  * [Resume Templates](tools/job-opportunities/resume-templates.md)
